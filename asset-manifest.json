@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mbti/static/css/main.f53cca8b.css",
+    "main.js": "/mbti/static/js/main.e9446894.js",
+    "index.html": "/mbti/index.html",
+    "main.f53cca8b.css.map": "/mbti/static/css/main.f53cca8b.css.map",
+    "main.e9446894.js.map": "/mbti/static/js/main.e9446894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53cca8b.css",
+    "static/js/main.e9446894.js"
+  ]
+}
