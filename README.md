@@ -16,7 +16,10 @@
 - 유튜브 바로 가기
 
 ----
+## 웹 디자인
+![](https://github.com/VaIice/mbti/assets/141003473/31d0accb-2bf4-4e6a-bdee-b6cc082cd396)
 
+----
 ## 웹 페이지 화면
 #### 메인 화면
 ![](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
