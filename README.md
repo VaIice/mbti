@@ -29,6 +29,8 @@
 --
 #### 결과 공유 화면
 ![카카오톡 공유하기](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
+![공유 결과](https://github.com/VaIice/mbti/assets/141003473/f1d94fa9-5102-433e-a4d7-39288762597e)
+
 ###### 개인 정보 보호를 위해 일부 이미지를 삭제하였습니다.
 ---
 
