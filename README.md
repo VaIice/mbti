@@ -23,7 +23,7 @@
 
 ---
 #### 테스트 화면
-![](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
+![](https://github.com/VaIice/mbti/assets/141003473/1ce9f944-a588-4d66-8a11-2f14be83e3e2)
 
 ---
 #### 결과 화면
