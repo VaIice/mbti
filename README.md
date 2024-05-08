@@ -1,9 +1,9 @@
-## 🎨 로스트아크 MBTI 
+## 🎨 로스트아크 MBTI 테스트
 ##### 주제: React, Redux Toolkit을 이용한 웹 사이트 만들기
 
 ---
 
-## 🌏 로스트아크 MBTI 테스트 주소
+## 🌏 주소
 ##### <https://vaiice.github.io/mbti>
 
 ---
