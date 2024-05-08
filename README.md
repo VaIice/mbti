@@ -22,16 +22,16 @@
 
 ## 웹 페이지 화면
 #### 메인 화면
-![Home](https://github.com/VaIice/Capstone/assets/141003473/1ff68715-a7ac-4c61-9940-7034dc2d8e97)
+![Home](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
 
 #### 게시판 이미지 업로드 시 화면
 <img width="701" alt="이미지 업로드" src="https://github.com/VaIice/Capstone/assets/141003473/cf488b25-70c0-446a-b631-9e53d3b4f489">
 
 #### 게시글 검색 시 화면
-![검색 기능](https://github.com/VaIice/Capstone/assets/141003473/b5a28746-9f82-4b3d-bc8e-b0af50d75cfe)
+![검색 기능](https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
 
 #### 게시글 삭제 시 화면
-![게시글 삭제](https://github.com/VaIice/Capstone/assets/141003473/a55e52eb-0575-4404-9546-f3706192d256)
+![게시글 삭제](https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
 
 ---
 
