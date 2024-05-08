@@ -1,4 +1,4 @@
-## 🎨 로스트아크 MBTI 테스트
+## 📝 로스트아크 MBTI 테스트
 ##### 주제: React, Redux Toolkit을 이용한 웹 사이트 만들기
 
 ----
@@ -8,7 +8,7 @@
 
 ----
 
-## 웹 기능
+## 🕶 웹 기능
 
 - 애니메이션
 - 카카오 API를 이용한 결과 공유하기
@@ -16,11 +16,11 @@
 - 유튜브 바로 가기
 
 ----
-## 웹 디자인
+## 🎨 웹 디자인
 ![](https://github.com/VaIice/mbti/assets/141003473/31d0accb-2bf4-4e6a-bdee-b6cc082cd396)
 
 ----
-## 웹 페이지 화면
+## 🎞 웹 페이지 화면
 #### 메인 화면
 ![](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
 
