@@ -17,21 +17,18 @@
 - 검색 기능
 - 댓글 기능
 - 내 정보 수정
-- 
+
 ---
 
 ## 웹 페이지 화면
 #### 메인 화면
-![Home](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
+!(https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
 
-#### 게시판 이미지 업로드 시 화면
-<img width="701" alt="이미지 업로드" src="https://github.com/VaIice/Capstone/assets/141003473/cf488b25-70c0-446a-b631-9e53d3b4f489">
+#### 테스트 화면
+!(https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
 
-#### 게시글 검색 시 화면
-![검색 기능](https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
-
-#### 게시글 삭제 시 화면
-![게시글 삭제](https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
+#### 결과 화면
+!(https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
 
 ---
 
