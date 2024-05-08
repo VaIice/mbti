@@ -20,10 +20,10 @@
 ## 웹 페이지 화면
 #### 메인 화면
 ![메인 화면](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
-
+--
 #### 테스트 화면
 ![테스트 화면](https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
-
+--
 #### 결과 화면
 ![결과 화면](https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
 
