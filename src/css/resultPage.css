@@ -1,0 +1,165 @@
+.type {
+  margin-top: 150px;
+  font-size: var(--font-size-large);
+  font-weight: bold;
+  letter-spacing: var(--letter-space);
+  animation: slideUp 1s ease-in-out;
+}
+
+.introduction {
+  margin-top: 40px;
+  font-size: var(--font-size-middle);
+  color: #7e7e7e;
+  line-height: 1.65em;
+  letter-spacing: var(--letter-space);
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.3s;
+  display: inline-block;
+  margin-top: 1rem;
+  max-width: 1000px;
+  opacity: 0;
+  animation-fill-mode: forwards;
+}
+
+.button-restart {
+  margin-right: 20px;
+  opacity: 0;
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.95s;
+  animation-fill-mode: forwards;
+  margin-bottom: 120px;
+}
+
+.button-share {
+  margin-left: 20px;
+  opacity: 0;
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.95s;
+  animation-fill-mode: forwards;
+  margin-bottom: 120px;
+}
+
+.profile {
+  margin-top: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid #e1e1e1;
+  opacity: 0;
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.profile-name {
+  font-size: var(--font-size-middle);
+  margin-top: 15px;
+  cursor: pointer;
+  opacity: 0;
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.content-animation {
+  opacity: 0;
+  animation: slideUp 0.8s ease-in-out;
+  animation-delay: 0.7s;
+  animation-fill-mode: forwards;
+}
+
+.icon {
+  color: #ff0000;
+}
+
+.name {
+  color: var(--color-light-highlight);
+  cursor: pointer;
+}
+
+.letter-space {
+  letter-spacing: 0.05em;
+}
+
+@media (max-width: 1024px) {
+  .type {
+    font-size: 48px;
+    margin-top: 15vh;
+  }
+
+  .introduction {
+    margin-top: 2vh;
+    font-size: 24px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .profile {
+    margin-top: 3vh;
+    cursor: auto;
+    border: 1px solid #e1e1e1;
+    width: 30%;
+  }
+
+  .profile-name {
+    font-size: 32px;
+    margin-top: 2vh;
+    cursor: auto;
+  }
+
+  .content-animation {
+    font-size: 20px;
+    margin-top: 2vh;
+  }
+
+  .button-restart {
+    font-size: 24px;
+  }
+
+  .button-share {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 767px) {
+  .type {
+    margin-top: 15vh;
+    font-size: 1.5em;
+  }
+
+  .introduction {
+    margin-top: 1vh;
+    font-size: 0.9em;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .profile {
+    margin-top: 3vh;
+    cursor: auto;
+    border: 1px solid #e1e1e1;
+    width: 35%;
+  }
+
+  .profile-name {
+    font-size: 1.2em;
+    margin-top: 2vh;
+    cursor: auto;
+  }
+
+  .content-animation {
+    font-size: 0.65em;
+    margin-top: 2vh;
+  }
+
+  .button-restart {
+    margin-right: 0;
+    margin-bottom: 1vh;
+    font-size: 1em;
+  }
+
+  .button-share {
+    margin-left: 0;
+    font-size: 1em;
+  }
+}

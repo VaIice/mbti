@@ -1,0 +1,105 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Noto+Sans+KR:wght@100..900&display=swap"); */
+
+body {
+  margin: 0;
+  font-family: "Noto Sans KR", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo {
+  width: 180px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  margin-left: 20px;
+}
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.fullContainer {
+  height: 100%;
+  max-width: 1460px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  padding: 0.1px;
+}
+
+/* ===== 변수 구간 ===== */
+:root {
+  --color-highlight: #9747ff;
+  --color-light-highlight: #dbbbff;
+  --color-dark-highlight: #42009b;
+
+  --font-size-large: 3em;
+  --font-size-medium: 2.5em;
+  --font-size-middle: 1.5em;
+  --font-size-small: 1.3em;
+
+  --letter-space: -0.04em;
+}
+
+@media (max-width: 1027px) {
+  html,
+  body {
+    height: 100vh;
+  }
+
+  .fullContainer {
+    height: 100vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+    padding: 0.1px;
+  }
+
+  .logo {
+    width: 150px;
+    cursor: auto;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  html,
+  body {
+    height: 100vh;
+  }
+
+  .fullContainer {
+    height: 100vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
+    padding: 0.1px;
+  }
+
+  .logo {
+    width: 180px;
+    cursor: auto;
+    position: absolute;
+    top: 1vh;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

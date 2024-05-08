@@ -1,0 +1,85 @@
+.progressBar {
+  margin-top: 150px;
+}
+
+.question {
+  margin-top: 80px;
+  font-size: var(--font-size-medium);
+  font-weight: bold;
+  animation: slideUp 0.8s ease-in-out;
+}
+
+.button-question {
+  margin-top: 40px;
+  font-size: var(--font-size-middle);
+  height: 96px;
+  width: 1080px;
+  border-radius: 7px;
+  color: white;
+  border: none;
+  background-color: black;
+  animation: slideUp 0.8s ease-in-out;
+  border: none;
+}
+
+.button-question:hover {
+  background-color: var(--color-highlight);
+}
+
+.button-question:active {
+  background-color: var(--color-dark-highlight);
+}
+
+.button-question.button-first {
+  animation-delay: 0.3s;
+}
+
+.button-question.button-second {
+  animation-delay: 0.58s;
+}
+
+.question,
+.button-question {
+  opacity: 0; /* 초기에 요소 숨기기 */
+  animation-fill-mode: forwards; /* 애니메이션이 끝난 후에도 마지막 상태를 유지 */
+}
+
+@media (max-width: 1027px) {
+  .progressBar {
+    margin-top: 20vh;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .question {
+    margin-top: 10vh;
+    font-size: 24px;
+  }
+
+  .button-question {
+    margin-top: 5vh;
+    font-size: 18px;
+    height: 10vh;
+    width: 80%;
+  }
+}
+
+@media (max-width: 767px) {
+  .progressBar {
+    margin-top: 20vh;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .question {
+    margin-top: 10vh;
+    font-size: 1.2em;
+  }
+
+  .button-question {
+    margin-top: 5vh;
+    font-size: 0.55em;
+    height: 10vh;
+    width: 80%;
+  }
+}
