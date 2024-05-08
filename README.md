@@ -13,18 +13,19 @@
 - 애니메이션
 - 카카오 API를 이용한 결과 공유하기
 - 로컬 스토리지에 결과 저장
+- 유튜브 바로 가기
 
 ---
 
 ## 웹 페이지 화면
 #### 메인 화면
-!(https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
+![메인 화면](https://github.com/VaIice/mbti/assets/141003473/f0a63a19-b6b5-468b-bb71-fe5dc2940a91)
 
 #### 테스트 화면
-!(https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
+![테스트 화면](https://github.com/VaIice/mbti/assets/141003473/eb275cb4-f4c3-441d-8521-7e89639d6456)
 
 #### 결과 화면
-!(https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
+![결과 화면](https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
 
 ---
 
