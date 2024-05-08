@@ -30,10 +30,15 @@
 ![](https://github.com/VaIice/mbti/assets/141003473/e608d97a-ce5f-4865-a8d0-0c1a214fb27f)
 
 ---
-#### 카카오톡 공유 화면
-![](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
----
+#### 다시 하기
+![](https://github.com/VaIice/mbti/assets/141003473/87b0432d-026f-4864-a3c9-6d1115a6605c)
 
+---
+#### 카카오톡 공유
+![](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
+
+---
+#### 공유 결과
 ![](https://github.com/VaIice/mbti/assets/141003473/f817c7b0-1d04-4eb4-9e0a-3a377a216712)
 
 ###### 개인 정보 보호를 위해 일부 이미지를 삭제하였습니다.
