@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+## 📝 Capstone 
+##### 주제: VR, 인공지능을 활용한 던전 RPG 제작 및 웹 서비스 제공
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+## 유니티 기능
+- 제작 중
 
-In the project directory, you can run:
+## 웹 기능
+- 회원가입
+- 로그인, 로그아웃
+- JWT토큰 기반 로그인, 로그아웃
+- 게시물 CRUD
+- 이미지 첨부 기능
+- 검색 기능
+- 댓글 기능
+- 내 정보 수정
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌏 Darkest Planet
+##### <http://d10v0gqnjifjsl.cloudfront.net>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 유니티 화면
+- 제작 중
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 웹 페이지 화면
+#### 메인 화면
+![Home](https://github.com/VaIice/Capstone/assets/141003473/1ff68715-a7ac-4c61-9940-7034dc2d8e97)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 게시판 이미지 업로드 시 화면
+<img width="701" alt="이미지 업로드" src="https://github.com/VaIice/Capstone/assets/141003473/cf488b25-70c0-446a-b631-9e53d3b4f489">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### 게시글 검색 시 화면
+![검색 기능](https://github.com/VaIice/Capstone/assets/141003473/b5a28746-9f82-4b3d-bc8e-b0af50d75cfe)
 
-### `npm run eject`
+#### 게시글 삭제 시 화면
+![게시글 삭제](https://github.com/VaIice/Capstone/assets/141003473/a55e52eb-0575-4404-9546-f3706192d256)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 👥 팀 소개
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### 🎮 Unity
+| Unity |  Unity  |
+| :------------: | :------------: |
+| 팀장 : 문경필 | 박승완 |
+|      ****1548    |  ****1552 |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🛠️ **Tools and Technologies :** <br><br>
+- 제작 중
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### 🖥 BackEnd
+|   BackEnd |
+| :------------: |
+| 김지수|
+|  ****1570 |
+| [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/VaIice) |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+🛠️ **Tools and Technologies :** <br><br>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
+<img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### 🎨 FrontEnd
+|   FrontEnd |
+| :------------: |
+| 김승현|
+|  ****1677 |
+| [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/VaIice) |
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🛠️ **Tools and Technologies :** <br><br>
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-%23D9313D.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon_CloudFront-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
