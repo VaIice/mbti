@@ -9,14 +9,10 @@
 ---
 
 ## 웹 기능
-- 회원가입
-- 로그인, 로그아웃
-- JWT토큰 기반 로그인, 로그아웃
-- 게시물 CRUD
-- 이미지 첨부 기능
-- 검색 기능
-- 댓글 기능
-- 내 정보 수정
+
+- 애니메이션
+- 카카오 API를 이용한 결과 공유하기
+- 로컬 스토리지에 결과 저장
 
 ---
 
@@ -33,7 +29,7 @@
 ---
 
 #### 🎨 FrontEnd
-| [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/VaIice) |
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/VaIice)
 
 🛠️ **Tools and Technologies :** <br><br>
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
