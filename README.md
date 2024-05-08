@@ -30,7 +30,7 @@
 ![](https://github.com/VaIice/mbti/assets/141003473/e608d97a-ce5f-4865-a8d0-0c1a214fb27f)
 
 ---
-#### 결과 공유 화면
+#### 카카오톡 공유 화면
 ![](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
 
 ---
