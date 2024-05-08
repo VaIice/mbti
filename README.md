@@ -28,8 +28,8 @@
 ![결과 화면](https://github.com/VaIice/mbti/assets/141003473/f7123c8a-f580-44ef-aa7b-0b0973ebf1cd)
 --
 #### 결과 공유 화면
-![카카오톡 공유하기](https://github.com/VaIice/mbti/assets/141003473/c68b6bc5-2924-463b-9ca1-73dfae0f5396)
-
+![카카오톡 공유하기](https://github.com/VaIice/mbti/assets/141003473/c95dd864-b056-44fa-8237-f0340a4a2e12)
+개인 정보 보호를 위해 일부 이미지를 삭제하였습니다.
 ---
 
 #### 🎨 FrontEnd
