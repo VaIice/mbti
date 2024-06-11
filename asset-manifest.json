@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mbti/static/css/main.f53cca8b.css",
-    "main.js": "/mbti/static/js/main.37334099.js",
+    "main.js": "/mbti/static/js/main.d676484c.js",
     "index.html": "/mbti/index.html",
     "main.f53cca8b.css.map": "/mbti/static/css/main.f53cca8b.css.map",
-    "main.37334099.js.map": "/mbti/static/js/main.37334099.js.map"
+    "main.d676484c.js.map": "/mbti/static/js/main.d676484c.js.map"
   },
   "entrypoints": [
     "static/css/main.f53cca8b.css",
-    "static/js/main.37334099.js"
+    "static/js/main.d676484c.js"
   ]
 }
