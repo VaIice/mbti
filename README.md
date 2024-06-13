@@ -14,6 +14,8 @@
 - 카카오 API를 이용한 웹 공유
 - 로컬 스토리지에 결과 저장
 - 유튜브 바로 가기
+- Google Analytics를 통한 트래픽 추적
+- Google Search Console을 이용한 Google 검색 결과 노출
 
 ----
 ## 🎨 웹 디자인
