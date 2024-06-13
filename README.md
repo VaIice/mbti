@@ -46,6 +46,9 @@
 #### 공유 결과
 ![](https://github.com/VaIice/mbti/assets/141003473/f817c7b0-1d04-4eb4-9e0a-3a377a216712)
 
+#### Google 검색 결과
+![image](https://github.com/VaIice/mbti/assets/141003473/8d174fd6-399c-437f-9795-8a285f06a9da)
+
 ###### 개인 정보 보호를 위해 일부 이미지를 삭제하였습니다.
 
 ----
