@@ -50,7 +50,8 @@
 ---
 
 #### Google 검색 결과
-![image](https://github.com/VaIice/mbti/assets/141003473/8d174fd6-399c-437f-9795-8a285f06a9da)
+![image](https://github.com/VaIice/mbti/assets/141003473/d239cb6f-3f03-40a0-a2e6-675e9fb0bb49)
+
 
 ----
 🛠️ **Tools and Technologies :** <br><br>
