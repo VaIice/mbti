@@ -50,7 +50,7 @@
 ---
 
 #### Google 검색 결과
-![image](https://github.com/VaIice/mbti/assets/141003473/d239cb6f-3f03-40a0-a2e6-675e9fb0bb49)
+![image](https://github.com/VaIice/mbti/assets/141003473/1f24d06d-d4e2-44cf-84f6-a20bdf394957)
 
 
 ----
