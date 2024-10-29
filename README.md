@@ -3,6 +3,11 @@
 
 ----
 
+## 🌏 주소
+##### <https://vaiice.github.io/mbti>
+
+----
+
 ## 🛠️ Tools and Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -12,10 +17,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=for-the-badge)
 ![Kakao API](https://img.shields.io/badge/Kakao_API-%23FFEB00.svg?style=for-the-badge&logo=kakao&logoColor=black)
 
-----
-
-## 🌏 주소
-##### <https://vaiice.github.io/mbti>
 ----
 ## 🔑 핵심 기능
 - 게임 로스트아크에서 MBTI 성향에 따라 행동 패턴 확인 가능
@@ -30,7 +31,7 @@
 - React Hooks로 프로토타입을 만든 후 유지보수를 위해 Redux로 리팩토링
 - Kakao API를 활용하여 웹 공유 기능을 구현
 - Google Analytics와 Google Search Console을 통해 트래픽을 추적하고 검색 결과 노출을 관리하며, 약 4개월간 3,500명이 접속
-
+- 반응형 웹 페이지 구현
 
 ----
 
