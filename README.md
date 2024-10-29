@@ -36,7 +36,7 @@
 - CSS 애니메이션과 반응형 웹 디자인을 라이브러리 없이 직접 구현
 - React Hooks로 프로토타입을 만든 후 유지보수를 위해 Redux로 리팩토링
 - Kakao API를 활용하여 웹 공유 기능을 구현
-- Google Analytics와 Google Search Console을 통해 트래픽을 추적하고 검색 결과 노출을 관리하며, 약 4개월간 3,500명 접속
+- Google Analytics와 Google Search Console을 통해 트래픽을 추적하고 검색 결과 노출을 관리하며, 약 4개월간 3,500명이 접속
 
 ----
 
